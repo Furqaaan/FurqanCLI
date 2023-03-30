@@ -6,6 +6,7 @@
     "bin": {
         "furqan": "index.js"
     },
+    "keywords": ["furqan","furqan hameed","kerala","kerala developer"],
     "dependencies": {
         "cli-welcome": "^2.2.2"
     }
