@@ -14,6 +14,7 @@ const content = `
 welcome({
     title: `Furqan`,
     tagLine: `by ${pkgJSON.author}`,
+    description: pkgJSON.description,
     bgColor: `#AFD808`,
     color: `#ffffff`,
     bold: true,
