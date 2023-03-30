@@ -1,12 +1,23 @@
 {
     "name": "furqan",
-    "author": "Furqan Hameed",
+    "author": {
+        "name": "Furqan Hameed",
+        "url": "https://keraladeveloper.com"
+    },
     "version": "1.0.2",
     "description": "Get information about Furqan Hameed",
     "bin": {
         "furqan": "index.js"
     },
-    "keywords": ["furqan","furqan hameed","kerala","kerala developer"],
+    "keywords": [
+        "furqan",
+        "furqan hameed",
+        "kerala",
+        "kerala developer"
+    ],
+    "main": "index.js",
+    "license": "MIT",
+    "repository": "Furqaaan/FurqanCLI",
     "dependencies": {
         "cli-welcome": "^2.2.2"
     }
