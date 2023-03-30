@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 
-const clearConsole = require("clear-any-console");
 const welcome = require("cli-welcome");
 
 const pkgJSON = require("./package.json");
@@ -10,9 +9,6 @@ const content = `
 🐙 Github   : https://github.com/Furqaaan
 🦖 Leetcode : https://leetcode.com/Furqaaan
 `;
-
-// To clear everything in terminal.
-clearConsole();
 
 // Cli header.
 welcome({
