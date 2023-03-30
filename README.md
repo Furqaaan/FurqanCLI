@@ -1,7 +1,15 @@
-# Installation
+# `npx furqan`
+
+> Get information about Furqan Hameed
+
+## Usage
 
 To install the package  
-``` >> npm i -g furqan ```
+```sh
+ >> npm i -g furqan 
+```
 
 To run the package  
-``` >> furqan ```
+```sh
+ >> furqan
+```
