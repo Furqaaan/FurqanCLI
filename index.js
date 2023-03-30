@@ -13,7 +13,7 @@ const content = `
 // Cli header.
 welcome({
     title: `Furqan`,
-    tagLine: `by ${pkgJSON.author}`,
+    tagLine: `by ${pkgJSON.author.name}`,
     description: pkgJSON.description,
     bgColor: `#AFD808`,
     color: `#ffffff`,
