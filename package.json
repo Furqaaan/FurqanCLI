@@ -1,10 +1,13 @@
 {
     "name": "furqan",
+    "author": "Furqan Hameed",
     "version": "1.0.2",
+    "description": "Get information about Furqan Hameed",
     "bin": {
         "furqan": "index.js"
     },
     "dependencies": {
-        "clear-any-console": "^1.16.2"
+        "clear-any-console": "^1.16.2",
+        "cli-welcome": "^2.2.2"
     }
 }
