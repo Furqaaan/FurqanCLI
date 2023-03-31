@@ -13,3 +13,8 @@ To run the package
 ```sh
  >> furqan
 ```
+
+To get the list of options  
+```sh
+ >> furqan --help
+```

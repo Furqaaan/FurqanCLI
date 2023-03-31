@@ -20,6 +20,8 @@
     "license": "MIT",
     "repository": "Furqaaan/FurqanCLI",
     "dependencies": {
-        "cli-welcome": "^2.2.2"
+        "clear-any-console": "^1.16.2",
+        "cli-welcome": "^2.2.2",
+        "meow": "^11.0.0"
     }
 }
