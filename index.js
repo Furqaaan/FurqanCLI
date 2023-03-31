@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
-const welcome = require("cli-welcome");
+import welcome from "cli-welcome";
 
-const pkgJSON = require("./package.json");
+import pkgJSON from "./package.json" assert { type: "json" };
 
 const content = `
 🐳 Linkedin : https://linkedin.com/in/Furqaaan
